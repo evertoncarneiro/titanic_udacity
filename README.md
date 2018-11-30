@@ -11,4 +11,4 @@ Projeto Nanodegree Data Science I Udacity
   Crianças menores de 5 anos tiveram prioridade?
   Tarifas pagas pelas mulheres são mais baratas ou mais caras?
   
-  É possível visualizar o trabalho completo [aqui](
+  É possível visualizar o trabalho completo [aqui](https://github.com/everton-carneiro/titanic_udacity/blob/master/titanic.ipynb)
