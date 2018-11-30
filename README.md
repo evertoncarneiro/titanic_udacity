@@ -3,7 +3,7 @@ Projeto Nanodegree Data Science I Udacity
 
   O projeto foi criado com o intuito de estudo dos dados relativos aos passageiros do Titanic e assim responder alguns questionamentos.
   
-  Perguntas serão respondidas, com exemplo:
+  Perguntas a serem respondidas:
   
   - Quantas pessoas sobreviveram a tragédia?
   - Quantos eram do sexo feminino ou masculino entre os sobreviventes?
