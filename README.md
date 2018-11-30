@@ -1,4 +1,4 @@
-# titanic_udacity
+# Titanic Udacity
 Projeto Nanodegree Data Science I Udacity
 
   O projeto foi criado com o intuito de estudo dos dados relativos aos passageiros do Titanic e assim responder alguns questionamentos.
@@ -9,6 +9,6 @@ Projeto Nanodegree Data Science I Udacity
   <p>Qual o percentual de sobreviventes em cada classe?
   <p>Qual a distribuição de idade entre os sobreviventes?
   <p>Crianças menores de 5 anos tiveram prioridade?
-  <p>Tarifas pagas pelas mulheres são mais baratas ou mais caras?
+  <p>Tarifas pagas pelas mulheres são mais baratas ou mais caras?</p>
   
   <p>É possível visualizar o trabalho completo [aqui](https://github.com/everton-carneiro/titanic_udacity/blob/master/titanic.ipynb)
